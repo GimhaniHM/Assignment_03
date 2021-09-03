@@ -7,11 +7,6 @@ public class QNumber3{
 				System.out.print(arry[i]+"\t");
 			}
 		}
-		/*while(i<arry.length){
-			if(arry[i]%2 == 1)	{
-				System.out.print(arry[i]+"\t");
-				i++;
-			}
-		}*/
+		
 	}
 }
